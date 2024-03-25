@@ -1,0 +1,57 @@
+[
+    {
+        "id": "53",
+        "url": "",
+        "description": "trending"
+    },
+    {
+        "id": "43",
+        "url": "",
+        "description": "fashion"
+    },
+    {
+        "id": "25",
+        "url": "",
+        "description": "electronic"
+    },
+    {
+        "id": "72",
+        "url": "",
+        "description": "appliances"
+    },
+    {
+        "id": "85",
+        "url": "",
+        "description": "household"
+    },
+    {
+        "id": "43",
+        "url": "",
+        "description": "groceries"
+    },
+    {
+        "id": "41",
+        "url": "",
+        "description": "mobile"
+    },
+    {
+        "id": "59",
+        "url": "",
+        "description": "watches"
+    },
+    {
+        "id": "27",
+        "url": "",
+        "description": "footwear"
+    },
+    {
+        "id": "59",
+        "url": "",
+        "description": "jewelery"
+    },
+    {
+        "id": "45",
+        "url": "product-dummy.jpg",
+        "description": "kitchen"
+    }
+]

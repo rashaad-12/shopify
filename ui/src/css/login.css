@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+ 
+ 
+ 
+.background{
+  height:100vh;
+  width:100vw;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #14163c;
+}
+ 
+.maincontainer{
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+  height:80vh;
+  width:40vw;
+  background:rgba(255,255,255,0.15);
+  box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
+  backdrop-filter: blur(8.5px);
+  border-radius:10px;
+  color:white;
+  text-transform: uppercase;
+  letter-spacing:0.4rem;
+  font-family: 'Mukta', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  @media only screen and (max-width:320px){
+    width:80vw;
+    height:90vh;
+    hr{
+      margin-bottom:0.3rem;
+    }
+  }
+}
+ 
+.welcome{
+  margin: 3rem 0 2rem 0;
+  font-size: 2rem;
+ 
+ 
+}
+ 
+.inputContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+ 
+  align-items: center;
+  height:20%;
+  width:100%;
+}
+ 
+.input {
+    display: flex;
+    align-items: center;
+}
+
+.input input{
+  background:rgba(255,255,255,0.15);
+  box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);
+  border-radius:2rem;
+  width:100%;
+  height:3rem;
+  padding:1rem;
+  border:none;
+  color:#3c354e;
+  font-size: 1rem;
+  font-weight: bold;
+  align-items: center;
+  &:focus{
+    display: inline-block;
+    box-shadow: 0 0 0 0.2rem white;
+    backdrop-filter:blur(12rem);
+    border-radius: 2rem;
+  }
+  &::placeholder{
+    font-size:1rem;
+    font-weight:100;
+    color:white;
+  }
+}
+ 
+.input img{
+  width:20px;
+  height:20px;
+}
+ 
+ 
+ 
+.buttonContainer{
+  margin: 1rem 0  2rem 0;
+  width:100%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.button{
+  background: linear-gradient(to right, #14163c 0%,#03217b 79%);
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  width:40%;
+  height:3rem;
+  border:none;
+  color:white;
+  border-radius: 2rem;
+  cursor:pointer;
+}
+ 
+.loginWith{
+  cursor:pointer;
+  font-family: 'Mukta', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.8rem;
+}
+ 
+.horizontalRule{
+  width:90%;
+  height:0.3rem;
+  border-radius: 0.8rem;
+  border:none;
+  margin: 1.5rem 0 1rem 0;
+  background:linear-gradient(to right, #14163c 0%,#03217b 79%);
+  backdrop-filter:blur(25px);
+}
+ 
+.iconsContainer{
+  display:flex;
+  justify-content: space-evenly;
+  margin:2rem 0 3rem 0;
+  width:80%;
+ 
+}
+ 
+.forgotPassword{
+  cursor:pointer;
+  justify-content: center;
+  font-size: 0.8rem;
+}
+ 
+.faceBook{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:60px;
+  height:60px;
+  border-radius:40px;
+  cursor:pointer;
+  border:none;
+ 
+}
+ 
+.instaGram{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:60px;
+  height:60px;
+  border-radius:40px;
+  cursor:pointer;
+  border:none;
+ 
+}
+ 
+.whatsApp{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:60px;
+  height:60px;
+  border-radius:40px;
+  cursor:pointer;
+  border:none;
+ 
+}
+ 
+.youTube{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:60px;
+  height:60px;
+  border-radius:40px;
+  cursor:pointer;
+  border:none;
+ 
+}
+ 
+ 
+.faceBook img{
+  width:40px;
+}
+.instaGram img{
+  width:40px;
+}
+.whatsApp img{
+  width:40px;
+}
+.youTube img{
+  width:40px;
+}

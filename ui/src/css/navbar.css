@@ -1,0 +1,68 @@
+:root {
+    /* colour scheme */
+    --prussian-blue: 9, 52, 72;
+    --eerie-black: 27, 31, 37;
+    --non-photo-blue: 168, 228, 240;
+    --carolina-blue: 117, 171, 193;
+    --bice-blue: 46, 107, 143;
+
+
+}
+
+.navbar {
+    background-color: rgba(var(--eerie-black));
+    height: 55px;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-brand:hover,
+.navbar .nav-link,
+.nav-icon,
+.dropdown-menu .dropdown-item,
+.dropdown-menu hr,
+.form-control.custom-input,
+.btn.custom-btn,
+.form-control.custom-input::placeholder,
+.form-control.custom-input:focus
+ {
+    color: rgba(var(--non-photo-blue));
+}
+
+.navbar .nav-link:focus {
+    background-color: transparent;
+}
+
+.navbar .nav-link:hover {
+    color: rgba(var(--carolina-blue));
+}
+
+.form-control.custom-input {
+    border: 1.5px solid rgba(var(--non-photo-blue));
+    background-color: transparent;
+    color: rgba(var(--non-photo-blue));
+}
+
+.btn.custom-btn {
+    border: 2px solid rgba(var(--non-photo-blue));
+    background-color: transparent;
+    font-weight: 500;
+}
+
+.btn.custom-btn:hover {
+    background-color: rgba(var(--non-photo-blue));
+    color: rgba(var(--eerie-black));
+}
+
+.form-control.custom-input:focus {
+    background-color: transparent;
+    border: 2px solid rgba(var(--non-photo-blue));
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: transparent;
+    color: rgba(var(--carolina-blue));
+}
+
+.dropdown-menu.custom-dropdown {
+    background-color: rgba(var(--eerie-black));
+}

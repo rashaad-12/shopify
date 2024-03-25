@@ -1,0 +1,21 @@
+# Java/Spring
+/build/
+/bin/
+
+# IDEs
+/.idea/
+.vscode/
+.gradle/
+.classpath
+.project
+.settings/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and Temporary files
+*.log
+*.tmp
+*.temp
+

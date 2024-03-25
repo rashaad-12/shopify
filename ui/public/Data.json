@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "name": "samsung A34",
+        "brand": "samsung",
+        "category": "smartphone",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "58219",
+        "quantity": "3"
+    },
+    {
+        "id": "2",
+        "name": "iphone 14 pro",
+        "brand": "apple",
+        "category": "smartphone",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "87439",
+        "quantity": "15"
+    },
+    {
+        "id": "3",
+        "name": "oppo K3",
+        "brand": "oppo",
+        "category": "smartphone",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "71098",
+        "quantity": "10"
+    },
+    {
+        "id": "4",
+        "name": "realme 11 pro",
+        "brand": "realme",
+        "category": "smartphone",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "74437",
+        "quantity": "10"
+    },
+    {
+        "id": "5",
+        "name": "redmi note 7",
+        "brand": "redmi",
+        "category": "smartphone",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "91406",
+        "quantity": "5"
+    },
+    {
+        "id": "6",
+        "name": "samsung smart TV",
+        "brand": "samsung",
+        "category": "Television",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "51583",
+        "quantity": "20"
+    },
+    {
+        "id": "7",
+        "name": "Redmi smart screen",
+        "brand": "redmi",
+        "category": "Television",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "26449",
+        "quantity": "13"
+    },
+    {
+        "id": "8",
+        "name": "LG LED 5.8 inch",
+        "brand": "LG",
+        "category": "Television",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "80623",
+        "quantity": "11"
+    },
+    {
+        "id": "9",
+        "name": "Videocon 6.6 inch",
+        "brand": "Videocon",
+        "category": "Television",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "41723",
+        "quantity": "11"
+    },
+    {
+        "id": "10",
+        "name": "Mac vision",
+        "brand": "Apple",
+        "category": "Television",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "78783",
+        "quantity": "18"
+    },
+    {
+        "id": "11",
+        "name": "Amazfit 13R",
+        "brand": "Amazfit",
+        "category": "Smart watch",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "43538",
+        "quantity": "13"
+    },
+    {
+        "id": "12",
+        "name": "Noisefit 3S",
+        "brand": "Noise",
+        "category": "Smart watch",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "61290",
+        "quantity": "13"
+    },
+    {
+        "id": "13",
+        "name": "realme Fitband",
+        "brand": "realme",
+        "category": "Smart watch",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "69441",
+        "quantity": "10"
+    },
+    {
+        "id": "14",
+        "name": "Amazfit pop 3R",
+        "brand": "Amazfit",
+        "category": "Smart watch",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "69423",
+        "quantity": "1"
+    },
+    {
+        "id": "15",
+        "name": "redmi Fitrack",
+        "brand": "redmi",
+        "category": "Smart watch",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "38606",
+        "quantity": "7"
+    },
+    {
+        "id": "16",
+        "name": "Boat T170",
+        "brand": "Boat",
+        "category": "Earbuds",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "34142",
+        "quantity": "9"
+    },
+    {
+        "id": "17",
+        "name": "Noise R54",
+        "brand": "Noise",
+        "category": "Earbuds",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "73400",
+        "quantity": "6"
+    },
+    {
+        "id": "18",
+        "name": "realme C45",
+        "brand": "realme",
+        "category": "Earbuds",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "40581",
+        "quantity": "5"
+    },
+    {
+        "id": "19",
+        "name": "Skullcandy SC6",
+        "brand": "Skullcandy",
+        "category": "Earbuds",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "91885",
+        "quantity": "1"
+    },
+    {
+        "id": "20",
+        "name": "JBL Infinity",
+        "brand": "JBL",
+        "category": "Earbuds",
+        "description": "Experience the pinnacle of innovation with sleek design and powerful functionality in your hands.",
+        "image": "",
+        "price": "45037",
+        "quantity": "18"
+    }
+]

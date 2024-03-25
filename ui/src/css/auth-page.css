@@ -1,0 +1,130 @@
+.auth-card {
+    background-color: rgba(var(--prussian-blue), 0.3);
+    backdrop-filter: blur(5px);
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: inset 0 0 40px rgba(var(--non-photo-blue), 0.5);
+}
+
+.form-heading,
+.input-info {
+    color: rgba(var(--non-photo-blue));
+}
+
+.form-heading {
+    font-size: 4rem;
+}
+
+
+.form-group input {
+    margin-top: 30px;
+    height: 45px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgba(var(--non-photo-blue));
+    background-color: transparent;
+    border: 1px solid rgba(var(--non-photo-blue));
+    padding-left: 60px;
+    /* box-shadow: 0 3px 10px rgba(var(--non-photo-blue),0.8); */
+}
+
+.form-group input:focus {
+    color: rgba(var(--non-photo-blue));
+    background-color: transparent;
+    border: 2px solid rgba(var(--non-photo-blue));
+}
+
+
+.input-with-icon {
+    position: relative;
+}
+
+.input-icon {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    /* Adjusted left position */
+    transform: translateY(-50%);
+    color: rgba(var(--non-photo-blue));
+    border-radius: 50%;
+    /* Added padding to adjust the circle size */
+}
+
+.toggle-eye-btn {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    border: none;
+    background-color: transparent;
+}
+
+.toggle-eye-btn:focus {
+    outline: none;
+}
+
+.toggle-eye-icon {
+    color: rgba(var(--non-photo-blue));
+}
+
+
+.form-group input::placeholder {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.5rem;
+    color: rgba(var(--non-photo-blue));
+}
+
+.form-check .form-check-input {
+    width: 20px;
+    height: 20px; 
+    background-color: transparent; 
+    border: 2px solid rgba(var(--non-photo-blue)); 
+    border-radius: 5px; 
+    margin-right: 8px; 
+}
+  
+.form-check .form-check-input:checked {
+    background-color: rgba(var(--non-photo-blue));
+    border: 2px solid rgba(var(--non-photo-blue)); 
+  }
+
+  .form-check .form-check-input:focus {
+    border: 2px solid rgba(var(--non-photo-blue)); 
+  }
+  
+
+.button-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container .main-btn,
+.container .side-btn {
+    height: 40px;
+    font-size: 1.4rem;
+    border: none;
+    cursor: pointer;
+    background-color: rgba(var(--non-photo-blue));
+    color: rgba(var(--eerie-black));
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container .side-btn:hover,
+.container .main-btn:hover {
+    background-color: rgba(var(--prussian-blue));
+    color: rgba(var(--non-photo-blue));
+}
+
+.container .main-btn:focus {
+    background-color: rgba(var(--non-photo-blue));
+}
+.container .side-btn:focus {
+    background-color: rgba(var(--eerie-black));
+    color: rgba(var(--non-photo-blue));
+}
+
+

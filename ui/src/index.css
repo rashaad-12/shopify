@@ -1,0 +1,31 @@
+:root {
+  /* colour scheme */
+  --prussian-blue: 9, 52, 72;
+  --eerie-black: 27, 31, 37;
+  --non-photo-blue: 168, 228, 240;
+  --carolina-blue: 117, 171, 193;
+  --bice-blue: 46, 107, 143;
+
+  /* base setting */
+  
+  font-size: 10px;
+  margin: 0;
+}
+
+
+body {
+  font-family: 'Trebuchet MS', 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
